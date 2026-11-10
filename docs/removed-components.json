@@ -1,0 +1,954 @@
+[
+  {
+    "tag": "uses-permission",
+    "name": "com.google.android.gms.permission.AD_ID"
+  },
+  {
+    "tag": "uses-permission",
+    "name": "com.tange365.wosee.openadsdk.permission.TT_PANGOLIN"
+  },
+  {
+    "tag": "permission",
+    "name": "com.tange365.wosee.openadsdk.permission.TT_PANGOLIN"
+  },
+  {
+    "tag": "provider",
+    "name": "cn.haorui.sdk.core.service.HRFileProvider"
+  },
+  {
+    "tag": "provider",
+    "name": "com.ptg.ptgapi.PtgFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.MainActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.DeviceInfoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.IntegrateStatusActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.SplashAdShowActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.UmpStatusActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.debug.activity.OnlinePlacementActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.anythink.debug.provider.DebuggerContentProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.alimm.tanx.core.ad.browser.TanxBrowserActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.alimm.tanx.core.ad.ad.template.rendering.reward.RewardVideoPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.alimm.tanx.core.ad.ad.template.rendering.reward.RewardPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.alimm.tanx.core.ad.ad.template.rendering.table.screen.TableScreenPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.AdActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.internal.activity.BrowserAdActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.internal.activity.DownloadDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.internal.activity.StopoverDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.internal.activity.EndingPageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.octopus.ad.TransparentActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.octopus.ad.DownloadService"
+  },
+  {
+    "tag": "provider",
+    "name": "com.octopus.ad.OctopusProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.beizi.ad.AdActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.beizi.ad.v2.activity.BeiZiNewInterstitialActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.beizi.ad.v2.activity.BeiZiNewRewardVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.beizi.ad.internal.activity.DownloadAppInfoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.beizi.ad.internal.activity.BeiZiDownloadDialogActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.beizi.ad.DownloadService"
+  },
+  {
+    "tag": "receiver",
+    "name": "com.bytedance.embedapplog.collector.Collector"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.downloadlib.addownload.compliance.AppPrivacyPolicyActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.downloadlib.addownload.compliance.AppDetailInfoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.downloadlib.activity.TTDelegateActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.downloadlib.activity.JumpKllkActivity"
+  },
+  {
+    "tag": "receiver",
+    "name": "com.ss.android.downloadlib.core.download.DownloadReceiver"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.socialbase.appdownloader.view.DownloadHandleNotificationActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.appdownloader.DownloadHandlerService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.socialbase.appdownloader.view.DownloadTaskDeleteActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ss.android.socialbase.appdownloader.view.JumpUnknownSourceActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.appdownloader.RetryJobSchedulerService"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.downloader.downloader.CSJIndependentProcessDownloadService"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.downloader.notification.DownloadNotificationService"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.downloader.downloader.CSJDownloadService"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.downloader.impls.DownloadHandleService"
+  },
+  {
+    "tag": "service",
+    "name": "com.ss.android.socialbase.downloader.downloader.SqlDownloadCacheService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.activity.base.TTNativePageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.activity.base.TTWebPageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.activity.base.TTVideoWebPageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.activity.base.TTVideoScrollWebPageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.activity.base.TTDelegateActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.component.reward.activity.TTRewardVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.component.reward.activity.TTFullScreenVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.component.reward.activity.TTRewardVideoLandscapeActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.core.component.reward.activity.TTFullScreenVideoLandscapeActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.bytedance.sdk.openadsdk.core.multipro.aidl.BinderPoolService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Activity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Portrait_Activity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Activity_T"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Landscape_Activity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_Activity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_SingleTask_Activity_T"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.stub.activity.Stub_SingleTask_Activity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.sdk.openadsdk.stub.server.DownloaderServerManager"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.sdk.openadsdk.stub.server.MainServerManager"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.sdk.openadsdk.multipro.TTMultiProvider"
+  },
+  {
+    "tag": "service",
+    "name": "com.bytedance.sdk.openadsdk.downloadnew.ApiDownloadHandlerService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.sdk.openadsdk.downloadnew.ApiDownloadHandleNotificationActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.pangle.provider.MainProcessProviderProxy"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.pangle.FileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.DouyinAuthorizeActivityProxy"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.DouyinAuthorizeActivityLiveProcessProxy"
+  },
+  {
+    "tag": "provider",
+    "name": "com.bytedance.android.openliveplugin.process.server.LiveServerManager"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.StubActivity$Activity_Portrait"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.StubActivity$Activity_Portrait2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.StubActivity$Activity_Portrait3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.StubActivity$Activity_Portrait4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.android.openliveplugin.stub.activity.StubActivity$Activity_Portrait5"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTask4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop5"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_standard"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTask1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTop6"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTask2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleTask3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTask1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTask2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTask3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTask4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_standard"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleInstance1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop5"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop6"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_main_singleTop4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.byted.live.lite.Activity_bytelive_singleInstance1"
+  },
+  {
+    "tag": "provider",
+    "name": "com.byted.live.lite.ServerManager_bytelive"
+  },
+  {
+    "tag": "provider",
+    "name": "com.byted.live.lite.ServerManager_push"
+  },
+  {
+    "tag": "provider",
+    "name": "com.byted.live.lite.ServerManager_downloader"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.msdk.api.activity.TTDelegateActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.msdk.api.activity.TTTransparentActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.bytedance.msdk.core.admanager.reward.rewardagain.GMRewardAgainDialogActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.baidu.mobads.sdk.api.BdFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.baidu.mobads.sdk.api.AppActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.baidu.mobads.sdk.api.MobRewardVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.baidu.mobads.sdk.api.BdShellActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRNativeInterstitialActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRDownloadDetailActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRRewardVideoPlayerActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRWebviewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.core.webview.TaskCenterWebActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.adsail_ad.view.DownLoadDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HROpenDeepLinkActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRAlertDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.haorui.sdk.activity.HRDetailActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "cn.haorui.sdk.core.service.HrLifeCycleContent"
+  },
+  {
+    "tag": "activity",
+    "name": "com.leyou.fusionsdk.activity.DelegateActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.leyou.fusionsdk.activity.ADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.leyou.fusionsdk.activity.RewardVideoAdActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.leyou.fusionsdk.activity.AdDetailActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.leyou.fusionsdk.content.FusionFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.wangmai.appsdkdex.WMPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.wangmai.appsdkdex.WMLandscapeActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.wangmai.appsdkdex.TransActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.wangmai.appsdkdex.provider.WMLifecycleProvider"
+  },
+  {
+    "tag": "provider",
+    "name": "com.wangmai.appsdkdex.WMFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qy.sdk.w.QYWebActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qy.sdk.w.QYActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.qy.sdk.download.DownloadService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qy.sdk.w.QYRewardVideoPortraitActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.qy.sdk.fp.QYFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.insightvision.openadsdk.view.web.WebViewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.insightvision.openadsdk.download.DownloadAppActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.insightvision.openadsdk.FanTiApkProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgWebActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgRewardVideoPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgRewardVideoLandscapeActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgInteractionPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgInteractionLandscapeActivity"
+  },
+  {
+    "tag": "service",
+    "name": "com.ptg.ptgapi.download.DownloadService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ptg.ptgapi.activity.PtgLaunchActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.ptg.adsdk.lib.provider.PtgFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qumeng.advlib.ui.front.InciteADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qumeng.advlib.ui.front.ADBrowser"
+  },
+  {
+    "tag": "provider",
+    "name": "com.qumeng.advlib.core.CPCFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.AdWebViewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.KsFullScreenVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.KsFullScreenLandScapeVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.KsRewardVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.KSRewardLandScapeVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.FeedDownloadActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$KsTrendsActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$ProfileHomeActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$ProfileVideoDetailActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$TubeProfileActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$ChannelDetailActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$TubeDetailActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$EpisodeDetailActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$RequestInstallPermissionActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$GoodsPlayBackActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity3"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity4"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity5"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity6"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity7"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity8"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity9"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivity10"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivitySingleTop1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivitySingleTop2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivitySingleInstance1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$FragmentActivitySingleInstance2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$DeveloperConfigActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleTop1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleTop2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleTask1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleTask2"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleInstance1"
+  },
+  {
+    "tag": "activity",
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$LandscapeFragmentActivitySingleInstance2"
+  },
+  {
+    "tag": "service",
+    "name": "com.kwad.sdk.api.proxy.app.FileDownloadService$SharedMainProcessService"
+  },
+  {
+    "tag": "service",
+    "name": "com.kwad.sdk.api.proxy.app.FileDownloadService$SeparateProcessService"
+  },
+  {
+    "tag": "service",
+    "name": "com.kwad.sdk.api.proxy.app.DownloadService"
+  },
+  {
+    "tag": "service",
+    "name": "com.kwad.sdk.api.proxy.app.ServiceProxyRemote"
+  },
+  {
+    "tag": "provider",
+    "name": "com.kwad.sdk.api.proxy.app.AdSdkFileProvider"
+  },
+  {
+    "tag": "service",
+    "name": "com.qq.e.comm.DownloadService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.ADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.PortraitADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.LandscapeADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.RewardvideoPortraitADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.RewardvideoLandscapeADActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.qq.e.ads.DialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.jd.ad.sdk.bl.adinteraction.deeplink.JADWebViewActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.jd.ad.sdk.dl.cache.multiprocess.JADMultiProvider"
+  },
+  {
+    "tag": "meta-data",
+    "name": "com.huawei.hms.client.service.name:ads-identifier"
+  },
+  {
+    "tag": "service",
+    "name": "com.ubix.ssp.open.comm.DownloadService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ubix.ssp.open.comm.AdActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.ubix.ssp.open.comm.UBiXFileProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ubix.ssp.open.comm.UBiXWebViewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ubix.ssp.open.comm.UBiXVideoActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.ubix.ssp.ad.core.monitor.data.UbixDataContentProvider"
+  },
+  {
+    "tag": "provider",
+    "name": "com.ubixnow.utils.monitor.data.UbixDataContentProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.ubixnow.core.common.ui.UMNAdActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.china.activity.TransparentActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.dlopt.activity.ApkConfirmDialogActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.anythink.dlopt.common.ApkFileProvider"
+  },
+  {
+    "tag": "receiver",
+    "name": "com.anythink.dlopt.common.NotificationBroadcastReceiver"
+  },
+  {
+    "tag": "service",
+    "name": "com.anythink.dlopt.common.service.ApkDownloadService"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.core.activity.AnyThinkGdprAuthActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.ATLandscapeActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.ATPortraitActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.ATLandscapeTranslucentActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.ATPortraitTranslucentActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.core.basead.ui.web.WebLandPageActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.RewardExitConfirmDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.anythink.basead.ui.activity.ATMixSplashActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.tramini.plugin.api.TraminiContentProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.utils.VlionOpenJdDplinkActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.view.dialog.VlionDownloadHoldDialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.view.dialog.VlionDownloadSecondConfirmActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.reward.VlionRewardVideoActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.view.web.VLionWebViewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "cn.vlion.ad.inland.ad.interstitial.VlionCustomInterstitialActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "cn.vlion.ad.inland.ad.utils.install.VlionProvider"
+  },
+  {
+    "tag": "activity",
+    "name": "com.mcto.sspsdk.ssp.activity.QyDetailPageActivityNew"
+  },
+  {
+    "tag": "activity",
+    "name": "com.mcto.sspsdk.ssp.activity.QyTrueViewActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.mcto.sspsdk.ssp.activity.DialogActivity"
+  },
+  {
+    "tag": "activity",
+    "name": "com.mcto.sspsdk.feedback.FeedBackActivity"
+  },
+  {
+    "tag": "provider",
+    "name": "com.mcto.sspsdk.QyFileProvider"
+  },
+  {
+    "tag": "service",
+    "name": "com.mcto.sspsdk.remote.SimulatorDetectService"
+  }
+]

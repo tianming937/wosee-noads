@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "project": "wosee-noads",
+  "release_tag": "v3.53.4-noads.1",
+  "apk": {
+    "filename": "wosee_3.53.4_noads_signed.apk",
+    "bytes": 113104788,
+    "sha256": "59647098a860c93659d255b798ec372f06224f95b23811bbec01ac860951c6fe",
+    "certificate_sha256": "0a93f47be534be7e5fdca3a43a76767dce5b810641756d5eea41f90823bec193",
+    "package": "com.tange365.wosee",
+    "version_name": "3.53.4",
+    "version_code": 271,
+    "min_sdk": 24,
+    "target_sdk": 35,
+    "native_abis": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ]
+  },
+  "supported_original_sha256": "e3af142bce99fc71b8e64e2568333f689aeca9e10f16c562a6cd5b5731dc0d7f",
+  "changes": {
+    "removed_sdk_components": 234,
+    "removed_declarations": 238,
+    "removed_by_tag": {
+      "activity": 179,
+      "provider": 31,
+      "service": 21,
+      "receiver": 3,
+      "uses-permission": 2,
+      "permission": 1,
+      "meta-data": 1
+    },
+    "changed_zip_entries": [
+      "AndroidManifest.xml",
+      "classes8.dex"
+    ],
+    "patched_methods": 8
+  },
+  "publication_audit": {
+    "date": "2026-11-10",
+    "checks": {
+      "file": "wosee_3.53.4_noads_signed.apk",
+      "sha256": "59647098a860c93659d255b798ec372f06224f95b23811bbec01ac860951c6fe",
+      "bytes": 113104788,
+      "package": "com.tange365.wosee",
+      "version_name": "3.53.4",
+      "version_code": 271,
+      "zip_crc": true,
+      "alignment": true,
+      "targeted_components_absent": true,
+      "patched_methods_verified": 8,
+      "original_compared": false,
+      "changed_entries": null,
+      "v2_signature": true,
+      "v3_signature": true,
+      "aapt2_parse": true,
+      "certificate_sha256": "0a93f47be534be7e5fdca3a43a76767dce5b810641756d5eea41f90823bec193"
+    },
+    "original_available": false,
+    "original_comparison_repeated": false,
+    "rebuilt_during_publication": false,
+    "unit_tests_passed": 8
+  },
+  "historical_tests": {
+    "date": "2026-10-24",
+    "original_entry_comparison": "Only AndroidManifest.xml and classes8.dex content changed; other entries byte-identical",
+    "independent_baksmali_methods_verified": 8,
+    "emulator": {
+      "environment": "MuMu",
+      "android_api": 32,
+      "installation": "success",
+      "cold_starts_passed": 2,
+      "observed_activity": "LoginActivity"
+    },
+    "physical_device": {
+      "model": "Samsung SM-S9180",
+      "android_api": 36,
+      "installation": "success",
+      "launch": "success",
+      "observed_activity": "LoginActivity"
+    }
+  },
+  "not_tested": [
+    "signed-in camera monitoring",
+    "push notifications",
+    "third-party sign-in",
+    "all in-app advertisement placements",
+    "memory/network/battery/performance improvements"
+  ]
+}
